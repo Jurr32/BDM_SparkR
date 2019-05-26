@@ -1,0 +1,11 @@
+***Report.txt ==> Contain: Confusion Matrix; Precision; Total Runtime***
+
+@ConfusionMatrix
+11.0  7.0   
+0.0   47.0  
+
+@Precision
+0.8923076923076924
+
+@TotalRuntime
+9.178416787
